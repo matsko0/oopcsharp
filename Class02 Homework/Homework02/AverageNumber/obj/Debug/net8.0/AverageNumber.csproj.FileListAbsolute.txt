@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll

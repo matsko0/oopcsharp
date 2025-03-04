@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\bin\Debug\net8.0\SwapNumbers.exe
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\bin\Debug\net8.0\SwapNumbers.deps.json
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\bin\Debug\net8.0\SwapNumbers.runtimeconfig.json
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\bin\Debug\net8.0\SwapNumbers.dll
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\bin\Debug\net8.0\SwapNumbers.pdb
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.dll
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\refint\SwapNumbers.dll
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.pdb
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Class02 Homework\RealCalculator\SwapNumbers\obj\Debug\net8.0\ref\SwapNumbers.dll
