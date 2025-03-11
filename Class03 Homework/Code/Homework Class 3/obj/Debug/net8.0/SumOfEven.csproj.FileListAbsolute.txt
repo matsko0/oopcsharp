@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Homework Class 3\obj\Debug\net8.0\ref\SumOfEven.dll
