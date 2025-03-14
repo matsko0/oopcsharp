@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Class04 Homework\Code\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll
