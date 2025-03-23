@@ -1,0 +1,28 @@
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\bin\Debug\net8.0\Task02.exe
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\bin\Debug\net8.0\Task02.deps.json
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\bin\Debug\net8.0\Task02.runtimeconfig.json
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\bin\Debug\net8.0\Task02.dll
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\bin\Debug\net8.0\Task02.pdb
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.AssemblyInfo.cs
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.dll
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\refint\Task02.dll
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.pdb
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\Task02.genruntimeconfig.cache
+C:\Users\aleks\Desktop\HomeworkClass03\Code\Task02\obj\Debug\net8.0\ref\Task02.dll
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\bin\Debug\net8.0\Task02.exe
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\bin\Debug\net8.0\Task02.deps.json
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\bin\Debug\net8.0\Task02.runtimeconfig.json
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\bin\Debug\net8.0\Task02.dll
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\bin\Debug\net8.0\Task02.pdb
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.AssemblyInfo.cs
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.dll
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\refint\Task02.dll
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.pdb
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\Task02.genruntimeconfig.cache
+C:\Users\aleks\Desktop\WorkShop class06\Code\Task02\obj\Debug\net8.0\ref\Task02.dll
