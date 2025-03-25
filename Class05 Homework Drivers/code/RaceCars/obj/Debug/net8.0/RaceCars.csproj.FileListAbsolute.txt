@@ -1,0 +1,29 @@
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\bin\Debug\net8.0\RaceCars.exe
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\bin\Debug\net8.0\RaceCars.deps.json
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\bin\Debug\net8.0\RaceCars.runtimeconfig.json
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\bin\Debug\net8.0\RaceCars.dll
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\bin\Debug\net8.0\RaceCars.pdb
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.dll
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\refint\RaceCars.dll
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.pdb
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\RaceCars.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Class06 homework\code\RaceCars\obj\Debug\net8.0\ref\RaceCars.dll
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\bin\Debug\net8.0\RaceCars.exe
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\bin\Debug\net8.0\RaceCars.deps.json
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\bin\Debug\net8.0\RaceCars.runtimeconfig.json
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\bin\Debug\net8.0\RaceCars.dll
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\bin\Debug\net8.0\RaceCars.pdb
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.AssemblyInfo.cs
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.sourcelink.json
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.dll
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\refint\RaceCars.dll
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.pdb
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\RaceCars.genruntimeconfig.cache
+C:\Users\aleks\Desktop\QS C#\Class05 Homework Drivers\code\RaceCars\obj\Debug\net8.0\ref\RaceCars.dll
